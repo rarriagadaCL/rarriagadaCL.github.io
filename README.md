@@ -1,36 +1,30 @@
 # rarriagadaCL.github.io
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
-</p>
+# NOVIEMBRE 2022
 
-<p align="left">
-  🦄 Linguagens: <strong>Coloque as linguagens que você desenvolve.</strong>
-</p>
+### 25-11-2022
 
-<p align="left">
-  💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
-</p>
+25-11-2022. <img src="https://img.shields.io/badge/%20-intranet-blue"/> Disponible botón en backoffice Matrícula para marcar/desmarcar si estudiante cuenta con Licencia Enseñanza Media / Concentración de Notas. Mismo botón está disponible en mantenedor de estudiantes de Intranet. 
 
-<p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
-</p>
+25-11-2022. Intranet. Se agrega columna en reporte de solicitudes de matrícula, incluyendo si presentó licencia de enseñanza media y concentración de notas. Esta opción está disponible para los seis estados de solicitud.
 
-<p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
+25-11-2022. Intranet. Al momento de generar una matrícula, en caso de que estudiante esté con categoría "Práctica" y haya sido omitido por colaborador(a), aparecerá un mensaje de alerta para prevenir matrícula de estudiantes nuevos(as) con arancel de práctica. 
 
-  <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+### 22-11-2022
 
-  <a href="#" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
+22-11-2022 17:33:27. Intranet. Se habilita detalle encuesta ingreso 2023 en sección de reportes incluyendo nuevos conceptos.
 
-  <a href="#" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
+22-11-2022 16:50:57. Intranet. Agregando si tiene licencia o no en reporte excel de solicitudes de matrícula.
 
-  <a href="#" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
-</p>  
+### 21-11-2022
+
+21-11-2022 11:03:15. Intranet. Portal. Agrega texto ‘La escala de notas utilizada es del 1.0 al 7.0.’ en concentración de notas generadas desde Intranet y Portal Estudiante.
+
+### 18-11-2022
+
+18-11-2022 15:14:36. Portal. Aviso nivelación 2023 a estudiantes con resultado < a 60% en resultados de diagnóstico por área. d0990f2df5dccb9e88346f8acb1d6e6d3baf7b64.
+18-11-2022 9:56:29. Intranet. Habilitando encuesta consultivo curricular 2022 - 2
+18-11-2022 9:15:37. Portal. Se extiende evaluación docente y encuesta de satisfacción institucional hasta el 20 de noviembre.
+
+
+# OCTUBRE 2022
